@@ -15,7 +15,7 @@ We have also added an image for the descriptive statistics of temperature for th
 
 ![](https://github.com/ysbcode/surfs_up/blob/main/images/December_temp_summary.png?raw=true)
 
-Points to consider:
+### Points to consider:
  - The Average temperatures for both months are very close: 74 for June and 71 for December. 
  - The maximum temperatures for both months are very close: 85 for June and 83 for December.
  - Standard deviation is 3.25 in June and 3.75 in December, making December a slightly more volatile.
